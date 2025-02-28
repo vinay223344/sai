@@ -1,0 +1,7 @@
+Macrium Reflect Boot Log
+------------------------
+
+Started 25-03-2021 1:36 PM  v7.2.4473
+
+DrvLoad: Successfully loaded x:\drivers\Wifi\VEN_168C_DEV_0042\netathr10x.inf.
+DrvLoad: Unable to load x:\drivers\Wifi\VEN_168C_DEV_0042\netvwifibus.inf (Error 0xe000022f).
